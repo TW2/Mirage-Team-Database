@@ -1,0 +1,908 @@
+<?xml version="1.0" encoding="UTF-8"?><attaques>
+    <attaque nom="Soru" fr="Soru" us="Soru" perso="Marines" equipe="Marines" style="combat MARINE" arc="Marine Ford" image="Marine">
+        <template>Marines</template>
+    </attaque>
+    <attaque nom="Tekkai Sai" fr="Tekkai Sai" us="Tekkai Sai" perso="Marines" equipe="Marines" style="combat MARINE" arc="Marine Ford" image="Marine">
+        <template>Marines</template>
+    </attaque>
+    <attaque nom="Geppou" fr="Geppou" us="Geppou" perso="Marines" equipe="Marines" style="combat MARINE" arc="Marine Ford" image="Marine">
+        <template>Marines</template>
+    </attaque>
+    <attaque nom="Tekkai" fr="Tekkai" us="Tekkai" perso="Marines" equipe="Marines" style="combat MARINE" arc="Marine Ford" image="Marine">
+        <template>Marines</template>
+    </attaque>
+    <attaque nom="Ryuusei Kazan" fr="Ryuusei Kazan" us="Ryuusei Kazan" perso="Sakazuki (AkaInu)" equipe="Marines" style="combat amiral INU" arc="Marine Ford" image="AkaInu">
+        <template>AkaInu</template>
+    </attaque>
+    <attaque nom="Kairyuu Ipponziai" fr="Kairyuu Ipponziai" us="Kairyuu Ipponziai" perso="Jinbei" equipe="Sun Pirates" style="combat JIMBEI" arc="Marine Ford" image="Jinbei">
+        <template>Jinbei</template>
+    </attaque>
+    <attaque nom="Ice Ball" fr="Ice Ball" us="Ice Ball" perso="Kuzan (Aokiji) " equipe="Marines" style="combat AOKIJI" arc="Marine Ford" image="Aokiji">
+        <template>Aokiji</template>
+    </attaque>
+    <attaque nom="Ice Block Partisan" fr="Ice Block Partisan" us="Ice Block Partisan" perso="Kuzan (Aokiji) " equipe="Marines" style="combat AOKIJI" arc="Marine Ford" image="Aokiji">
+        <template>Aokiji</template>
+    </attaque>
+    <attaque nom="Soru" fr="Soru" us="Soru" perso="Momonga" equipe="Marines" style="combat MOMONGA" arc="Marine Ford" image="Momonga">
+        <template>Momonga</template>
+    </attaque>
+    <attaque nom="Geppou" fr="Geppou" us="Geppou" perso="Momonga" equipe="Marines" style="combat MOMONGA" arc="Marine Ford" image="Momonga">
+        <template>Momonga</template>
+    </attaque>
+    <attaque nom="Shigan" fr="Shigan" us="Shigan" perso="Marines" equipe="Marines" style="combat MARINE" arc="Marine Ford" image="Marine">
+        <template>Marines</template>
+    </attaque>
+    <attaque nom="Slave Arrow" fr="Slave Arrow" us="Slave Arrow" perso="Boa Hancock" equipe="Kuja Pirates" style="combat HANCOK" arc="Marine Ford" image="Boa Hancock">
+        <template>Boa Hancock</template>
+    </attaque>
+    <attaque nom="Inugami Guren" fr="Inugami Guren" us="Inugami Guren" perso="Sakazuki (AkaInu)" equipe="Marines" style="combat amiral INU" arc="Marine Ford" image="AkaInu">
+        <template>AkaInu</template>
+    </attaque>
+    <attaque nom="Death Wink" fr="Death Wink" us="Death Wink" perso="Emporio Ivankov" equipe="Armée Révolutionnaire" style="combat IVANKOV" arc="Marine Ford" image="Emporio Ivankov">
+        <template>Ivankov</template>
+    </attaque>
+    <attaque nom="Soru" fr="Soru" us="Soru" perso="Coby" equipe="Marines" style="combat COBY" arc="Marine Ford" image="Coby">
+        <template>Coby</template>
+    </attaque>
+    <attaque nom="Gyojin Karate" fr="Gyojin Karate" us="Gyojin Karate" perso="Jinbei" equipe="Sun Pirates" style="combat JIMBEI" arc="Marine Ford" image="Jinbei">
+        <template>Jinbei</template>
+    </attaque>
+    <attaque nom="Karakusa Gawara Seiken" fr="Karakusa Gawara Seiken" us="Karakusa Gawara Seiken" perso="Jinbei" equipe="Sun Pirates" style="combat JIMBEI" arc="Marine Ford" image="Jinbei">
+        <template>Jinbei</template>
+    </attaque>
+    <attaque nom="Candle Wall" fr="Candle Wall" us="Candle Wall" perso="Galdino (Mr. 3)" equipe="Baroque Works" style="combat MISTER 3" arc="Marine Ford" image="Mr. 3">
+        <template>Mr. 3</template>
+    </attaque>
+    <attaque nom="Tenkai Hibashira" fr="Tenkai Hibashira" us="Tenkai Hibashira" perso="Gol D. Ace (Portgas D. Ace)" equipe="Pirates de Barbe blanche" style="combat ACE" arc="Marine Ford" image="Portgas D. Ace">
+        <template>Ace 1</template>
+    </attaque>
+    <attaque nom="Hiken" fr="Hiken" us="Hiken" perso="Gol D. Ace (Portgas D. Ace)" equipe="Pirates de Barbe blanche" style="combat ACE" arc="Marine Ford" image="Portgas D. Ace">
+        <template>Ace 1</template>
+    </attaque>
+    <attaque nom="Higan" fr="Higan" us="Higan" perso="Gol D. Ace (Portgas D. Ace)" equipe="Pirates de Barbe blanche" style="combat ACE" arc="Marine Ford" image="Portgas D. Ace">
+        <template>Ace 1</template>
+    </attaque>
+    <attaque nom="Kyo Kaen" fr="Kyo Kaen" us="Kyo Kaen" perso="Gol D. Ace (Portgas D. Ace)" equipe="Pirates de Barbe blanche" style="combat ACE" arc="Marine Ford" image="Portgas D. Ace">
+        <template>Ace 1</template>
+    </attaque>
+    <attaque nom="Shinka Shiranui" fr="Shinka Shiranui" us="Shinka Shiranui" perso="Gol D. Ace (Portgas D. Ace)" equipe="Pirates de Barbe blanche" style="combat ACE" arc="Marine Ford" image="Portgas D. Ace">
+        <template>Ace 1</template>
+    </attaque>
+    <attaque nom="Hotarubi Hidaruma" fr="Hotarubi Hidaruma" us="Hotarubi Hidaruma" perso="Gol D. Ace (Portgas D. Ace)" equipe="Pirates de Barbe blanche" style="combat ACE 2" arc="Marine Ford" image="Portgas D. Ace">
+        <template>Ace 2</template>
+    </attaque>
+    <attaque nom="Jujika" fr="Jujika" us="Jujika" perso="Gol D. Ace (Portgas D. Ace)" equipe="Pirates de Barbe blanche" style="combat ACE 3" arc="Marine Ford" image="Portgas D. Ace">
+        <template>Ace 3</template>
+    </attaque>
+    <attaque nom="ice Block" fr="ice Block" us="ice Block" perso="Kuzan (Aokiji) " equipe="Marines" style="combat AOKIJI" arc="Marine Ford" image="Aokiji">
+        <template>Aokiji</template>
+    </attaque>
+    <attaque nom="Pheasant Beak" fr="Pheasant Beak" us="Pheasant Beak" perso="Kuzan (Aokiji) " equipe="Marines" style="combat AOKIJI" arc="Marine Ford" image="Aokiji">
+        <template>Aokiji</template>
+    </attaque>
+    <attaque nom="Meigou" fr="Meigou" us="Meigou" perso="Sakazuki (AkaInu)" equipe="Marines" style="combat amiral INU" arc="Marine Ford" image="AkaInu">
+        <template>AkaInu</template>
+    </attaque>
+    <attaque nom="Black Hole" fr="Black Hole" us="Black Hole" perso="Marshall D. Teach (Kurohige)" equipe="Pirates de Barbe Noir" style="combat BN" arc="Marine Ford" image="Kurohige">
+        <template>Kurohige 1</template>
+    </attaque>
+    <attaque nom="Close" fr="Close" us="Close" perso="Marshall D. Teach (Kurohige)" equipe="Pirates de Barbe Noir" style="combat BN 2" arc="Marine Ford" image="Kurohige">
+        <template>Kurohige 2</template>
+    </attaque>
+    <attaque nom="Parfum Femelle" fr="Parfum Femelle" us="Parfum Femelle" perso="Boa Hancock" equipe="Kuja Pirates" style="combat HANCOK" arc="Marine Ford" image="Boa Hancock">
+        <template>Boa Hancock</template>
+    </attaque>
+    <attaque nom="Emporio Ganmen Seicho Hormone" fr="Emporio Ganmen Seicho Horumon" us="?" perso="Emporio Ivankov" equipe="Armée Révolutionnaire" style="combat IVANKOV" arc="Marine Ford" image="Emporio Ivankov">
+        <template>Ivankov</template>
+    </attaque>
+    <attaque nom="O Kanabashi" fr="O Kanabashi" us="O Kanabashi" perso="Inazuma" equipe="Armée Révolutionnaire" style="combat INAZUMA" arc="Marine Ford" image="Inazuma">
+        <template>Inazuma</template>
+    </attaque>
+    <attaque nom="Rose Rondo" fr="Rose Rondo" us="Rose Rondo" perso="Vista" equipe="Pirates de Barbe blanche" style="combat VISTA" arc="Marine Ford" image="Vista">
+        <template>Vista</template>
+    </attaque>
+    <attaque nom="New Kama Kenpo" fr="Nyu Kama Kenpo" us="?" perso="Emporio Ivankov" equipe="Armée Révolutionnaire" style="combat IVANKOV bis" arc="Marine Ford" image="Emporio Ivankov">
+        <template>Ivankov bis</template>
+    </attaque>
+    <attaque nom="44 no Aesthe Ougi" fr="Yonjuuyon no Esute Ougi" us="?" perso="Emporio Ivankov" equipe="Armée Révolutionnaire" style="combat IVANKOV bis" arc="Marine Ford" image="Emporio Ivankov">
+        <template>Ivankov bis</template>
+    </attaque>
+    <attaque nom="Laser Chiryou Ken" fr="Reizaa Chiryou Ken" us="?" perso="Emporio Ivankov" equipe="Armée Révolutionnaire" style="combat IVANKOV" arc="Marine Ford" image="Emporio Ivankov">
+        <template>Ivankov</template>
+    </attaque>
+    <attaque nom="Shibou Kyuuin Ken" fr="Shibou Kyuuin Ken" us="?" perso="Emporio Ivankov" equipe="Armée Révolutionnaire" style="combat IVANKOV" arc="Marine Ford" image="Emporio Ivankov">
+        <template>Ivankov</template>
+    </attaque>
+    <attaque nom="Sables" fr="Saaburusu" us="?" perso="Crocodile (Mr. 0)" equipe="Baroque Works" style="combat CROCODILE" arc="Marine Ford" image="Crocodile">
+        <template>Crocodile</template>
+    </attaque>
+    <attaque nom="Ice Age" fr="Aisu Eiji" us="?" perso="Kuzan (Aokiji) " equipe="Marines" style="combat AOKIJI" arc="Marine Ford" image="Aokiji">
+        <template>Aokiji</template>
+    </attaque>
+    <attaque nom="Collier" fr="Korie" us="?" perso="Sanji" equipe="Pirates du Chapeau de Paille" style="combat SANJI" arc="Post Marine Ford" image="Sanji">
+        <template>Sanji</template>
+    </attaque>
+    <attaque nom="Heavy Point" fr="Hebii Pointo" us="?" perso="Tony Tony Chopper" equipe="Pirates du Chapeau de Paille" style="combat CHOPPER" arc="Post Marine Ford" image="Chopper">
+        <template>Chopper</template>
+    </attaque>
+    <attaque nom="Genkotsu Ryuuseigun" fr="Genkotsu Ryuuseigun" us="?" perso="Monkey D. Garp" equipe="Marines" style="Garp attaque" arc="Post Marine Ford" image="Garp">
+        <template>Garp</template>
+    </attaque>
+    <attaque nom="Santouryuu Gyuki Yuzume" fr="Santouryuu Gyuki Yuzume" us="?" perso="Roronoa Zoro" equipe="Pirates du Chapeau de Paille" style="combat ZORRO" arc="Post Marine Ford" image="Zoro">
+        <template>Zoro</template>
+    </attaque>
+    <attaque nom="Santouryuu Tatsu Maki" fr="Santouryuu Tatsu Maki" us="?" perso="Roronoa Zoro" equipe="Pirates du Chapeau de Paille" style="combat ZORRO bis" arc="Post Marine Ford" image="Zoro">
+        <template>Zoro bis</template>
+    </attaque>
+    <attaque nom="Arm Point" fr="Aamu Pointo" us="?" perso="Tony Tony Chopper" equipe="Pirates du Chapeau de Paille" style="combat CHOPPER" arc="Post Marine Ford" image="Chopper">
+        <template>Chopper</template>
+    </attaque>
+    <attaque nom="Guard Point" fr="Gaado Pointo" us="?" perso="Tony Tony Chopper" equipe="Pirates du Chapeau de Paille" style="combat CHOPPER" arc="Post Marine Ford" image="Chopper">
+        <template>Chopper</template>
+    </attaque>
+    <attaque nom="Rumble" fr="Ranburu" us="?" perso="Tony Tony Chopper" equipe="Pirates du Chapeau de Paille" style="combat CHOPPER" arc="Post Marine Ford" image="Chopper">
+        <template>Chopper</template>
+    </attaque>
+    <attaque nom="Hissatsu" fr="Hissatsu" us="?" perso="Usopp (Sogeking)" equipe="Pirates du Chapeau de Paille" style="combat USOPP" arc="Post Marine Ford" image="Usopp">
+        <template>Usopp</template>
+    </attaque>
+    <attaque nom="Kayaku Boshi" fr="Kayaku Boshi" us="?" perso="Usopp (Sogeking)" equipe="Pirates du Chapeau de Paille" style="combat USOPP" arc="Post Marine Ford" image="Usopp">
+        <template>Usopp</template>
+    </attaque>
+    <attaque nom="Oni Giri" fr="Oni Giri" us="?" perso="Roronoa Zoro" equipe="Pirates du Chapeau de Paille" style="combat ZORRO" arc="Post Marine Ford" image="Zoro">
+        <template>Zoro</template>
+    </attaque>
+    <attaque nom="Sanzen Sekai" fr="Sanzen Sekai" us="?" perso="Roronoa Zoro" equipe="Pirates du Chapeau de Paille" style="combat ZORRO" arc="Post Marine Ford" image="Zoro">
+        <template>Zoro</template>
+    </attaque>
+    <attaque nom="Diable Jambe" fr="?" us="?" perso="Sanji" equipe="Pirates du Chapeau de Paille" style="combat SANJI bis" arc="Post Marine Ford" image="Sanji">
+        <template>Sanji bis</template>
+    </attaque>
+    <attaque nom="Premier Hachis" fr="Purumieiru Asshi" us="?" perso="Sanji" equipe="Pirates du Chapeau de Paille" style="combat SANJI" arc="Post Marine Ford" image="Sanji">
+        <template>Sanji</template>
+    </attaque>
+    <attaque nom="Mudade Shori Ken" fr="Mudage Shori Ken" us="?" perso="Emporio Ivankov" equipe="Armée Révolutionnaire" style="combat IVANKOV bis" arc="Post Marine Ford" image="Emporio Ivankov">
+        <template>Ivankov bis</template>
+    </attaque>
+    <attaque nom="Hell Wink" fr="Heru Winku" us="?" perso="Emporio Ivankov" equipe="Armée Révolutionnaire" style="combat IVANKOV" arc="Post Marine Ford" image="Emporio Ivankov">
+        <template>Ivankov</template>
+    </attaque>
+    <attaque nom="Galaxy Wink" fr="Gyarakushii Winku" us="?" perso="Emporio Ivankov" equipe="Armée Révolutionnaire" style="combat IVANKOV" arc="Post Marine Ford" image="Emporio Ivankov">
+        <template>Ivankov</template>
+    </attaque>
+    <attaque nom="Gyojin Jujutsu Kairyuu Ipponzeoi" fr="Gyojin Jujutsu Kairyuu Ipponzeoi" us="?" perso="Jinbei" equipe="Sun Pirates" style="combat JIMBEI" arc="Post Marine Ford" image="Jinbei">
+        <template>Jinbei</template>
+    </attaque>
+    <attaque nom="Hissatsu Midori Boshi Devil" fr="Hissatsu Midori Boshi Devil" us="?" perso="Usopp (Sogeking)" equipe="Pirates du Chapeau de Paille" style="combat USOPP" arc="Retrouvailles Saboady" image="Usopp">
+        <template>Usopp (avec boule)</template>
+    </attaque>
+    <attaque nom="Gear Second" fr="?" us="?" perso="Monkey D. Luffy" equipe="Pirates du Chapeau de Paille" style="combat LUFFY (gear 2)" arc="Retrouvailles Saboady" image="Luffy">
+        <template>Luffy avec Gear 2</template>
+    </attaque>
+    <attaque nom="Gomu Gomu No Jet Pistol" fr="?" us="?" perso="Monkey D. Luffy" equipe="Pirates du Chapeau de Paille" style="combat LUFFY (gear 2)" arc="Retrouvailles Saboady" image="Luffy">
+        <template>Luffy avec Gear 2</template>
+    </attaque>
+    <attaque nom="Gear Third" fr="?" us="?" perso="Monkey D. Luffy" equipe="Pirates du Chapeau de Paille" style="combat LUFFY" arc="Île des Hommes-Poissons" image="Luffy">
+        <template>Luffy</template>
+    </attaque>
+    <attaque nom="Gomu Gomu No Pistol" fr="?" us="?" perso="Monkey D. Luffy" equipe="Pirates du Chapeau de Paille" style="combat LUFFY" arc="Île des Hommes-Poissons" image="Luffy">
+        <template>Luffy</template>
+    </attaque>
+    <attaque nom="Mille Fleurs" fr="?" us="?" perso="Nico Robin (Miss All Sunday)" equipe="Pirates du Chapeau de Paille" style="combat ROBIN" arc="Île des Hommes-Poissons" image="Robin">
+        <template>Robin</template>
+    </attaque>
+    <attaque nom="Gigantesco Mano" fr="?" us="?" perso="Nico Robin (Miss All Sunday)" equipe="Pirates du Chapeau de Paille" style="combat ROBIN" arc="Île des Hommes-Poissons" image="Robin">
+        <template>Robin</template>
+    </attaque>
+    <attaque nom="Franky Rocket Launcher" fr="?" us="?" perso="Franky (Cutty Flam)" equipe="Pirates du Chapeau de Paille" style="combat FRANKY" arc="Île des Hommes-Poissons" image="Franky">
+        <template>Franky</template>
+    </attaque>
+    <attaque nom="Blue Walk" fr="?" us="?" perso="Sanji" equipe="Pirates du Chapeau de Paille" style="combat SANJI" arc="Île des Hommes-Poissons" image="Sanji">
+        <template>Sanji</template>
+    </attaque>
+    <attaque nom="Bien Cuit Grill Shot" fr="?" us="?" perso="Sanji" equipe="Pirates du Chapeau de Paille" style="combat SANJI" arc="Île des Hommes-Poissons" image="Sanji">
+        <template>Sanji</template>
+    </attaque>
+    <attaque nom="Nipple Light" fr="?" us="?" perso="Franky (Cutty Flam)" equipe="Pirates du Chapeau de Paille" style="combat FRANKY bis" arc="Île des Hommes-Poissons" image="Franky">
+        <template>Franky bis</template>
+    </attaque>
+    <attaque nom="Coup de Burst" fr="?" us="?" perso="Franky (Cutty Flam)" equipe="Pirates du Chapeau de Paille" style="combat FRANKY" arc="Île des Hommes-Poissons" image="Franky">
+        <template>Franky</template>
+    </attaque>
+    <attaque nom="Franky" fr="?" us="?" perso="Franky (Cutty Flam)" equipe="Pirates du Chapeau de Paille" style="combat FRANKY" arc="Île des Hommes-Poissons" image="Franky">
+        <template>Franky</template>
+    </attaque>
+    <attaque nom="Santouryuu Ougi Rokudou no Tsuji" fr="?" us="?" perso="Roronoa Zoro" equipe="Pirates du Chapeau de Paille" style="combat ZORRO" arc="Île des Hommes-Poissons" image="Zoro">
+        <template>Zoro</template>
+    </attaque>
+    <attaque nom="Busoushoku Kouka" fr="?" us="?" perso="Monkey D. Luffy" equipe="Pirates du Chapeau de Paille" style="combat LUFFY" arc="Île des Hommes-Poissons" image="Luffy">
+        <template>Luffy</template>
+    </attaque>
+    <attaque nom="Elephant Gun" fr="?" us="?" perso="Monkey D. Luffy" equipe="Pirates du Chapeau de Paille" style="combat LUFFY" arc="Île des Hommes-Poissons" image="Luffy">
+        <template>Luffy</template>
+    </attaque>
+    <attaque nom="Midori Boshi Sargasso" fr="?" us="?" perso="Usopp (Sogeking)" equipe="Pirates du Chapeau de Paille" style="combat USOPP" arc="Île des Hommes-Poissons" image="Usopp">
+        <template>Usopp</template>
+    </attaque>
+    <attaque nom="Soshark" fr="?" us="?" perso="Hody Jones" equipe="Pirates des Nouveaux Hommes-Poissons" style="combat Hody" arc="Île des Hommes-Poissons" image="Hody">
+        <template>Hody</template>
+    </attaque>
+    <attaque nom="Yabusame" fr="?" us="?" perso="Hody Jones" equipe="Pirates des Nouveaux Hommes-Poissons" style="combat Hody_2" arc="Île des Hommes-Poissons" image="Hody">
+        <template>Hody 2</template>
+    </attaque>
+    <attaque nom="Ittouryuu Yakkoudori" fr="?" us="?" perso="Roronoa Zoro" equipe="Pirates du Chapeau de Paille" style="combat ZORRO" arc="Île des Hommes-Poissons" image="Zoro">
+        <template>Zoro</template>
+    </attaque>
+    <attaque nom="Midori Boshi Rafflesia" fr="?" us="?" perso="Usopp (Sogeking)" equipe="Pirates du Chapeau de Paille" style="combat USOPP" arc="Île des Hommes-Poissons" image="Usopp">
+        <template>Usopp</template>
+    </attaque>
+    <attaque nom="Gomu Gomu no Jet Hammer" fr="?" us="?" perso="Monkey D. Luffy" equipe="Pirates du Chapeau de Paille" style="combat LUFFY (gear 2)" arc="Île des Hommes-Poissons" image="Luffy">
+        <template>Luffy avec Gear 2</template>
+    </attaque>
+    <attaque nom="Ittouryuu Iai Shishi Sonson" fr="?" us="?" perso="Roronoa Zoro" equipe="Pirates du Chapeau de Paille" style="combat ZORRO" arc="Île des Hommes-Poissons" image="Zoro">
+        <template>Zoro</template>
+    </attaque>
+    <attaque nom="Ittouryuu 36 Pound Hou" fr="?" us="?" perso="Roronoa Zoro" equipe="Pirates du Chapeau de Paille" style="combat ZORRO" arc="Île des Hommes-Poissons" image="Zoro">
+        <template>Zoro</template>
+    </attaque>
+    <attaque nom="Black Ball Raiun Rod" fr="?" us="?" perso="Nami" equipe="Pirates du Chapeau de Paille" style="Nami" arc="Île des Hommes-Poissons" image="Nami">
+        <template>Nami</template>
+    </attaque>
+    <attaque nom="Kakuhou Elf" fr="?" us="?" perso="Tony Tony Chopper" equipe="Pirates du Chapeau de Paille" style="Chopper Kung-Fu" arc="Île des Hommes-Poissons" image="Chopper">
+        <template>Chopper Kung-Fu</template>
+    </attaque>
+    <attaque nom="Midori Boshi Dokuro Bakuhatsu Sou" fr="?" us="?" perso="Usopp (Sogeking)" equipe="Pirates du Chapeau de Paille" style="Usopp 2" arc="Île des Hommes-Poissons" image="Usopp">
+        <template>Usopp 2</template>
+    </attaque>
+    <attaque nom="Kirisame" fr="?" us="?" perso="Hody Jones" equipe="Pirates des Nouveaux Hommes-Poissons" style="Hody 3" arc="Île des Hommes-Poissons" image="Hody">
+        <template>Hody 3</template>
+    </attaque>
+    <attaque nom="Gyojin Karate Samegawara Seiken" fr="?" us="?" perso="Jinbei" equipe="Sun Pirates" style="Jinbei 2" arc="Île des Hommes-Poissons" image="Jinbei">
+        <template>Jinbei 2</template>
+    </attaque>
+    <attaque nom="Gomu Gomu No Jet Stamp" fr="?" us="?" perso="Monkey D. Luffy" equipe="Pirates du Chapeau de Paille" style="combat LUFFY (gear 2)" arc="Île des Hommes-Poissons" image="Luffy">
+        <template>Luffy avec Gear 2</template>
+    </attaque>
+    <attaque nom="Uchimizu" fr="?" us="?" perso="Hody Jones" equipe="Pirates des Nouveaux Hommes-Poissons" style="Hody 3" arc="Île des Hommes-Poissons" image="Hody">
+        <template>Hody 3</template>
+    </attaque>
+    <attaque nom="Ningyou Gujutsu Kouin Ryuusui Sou" fr="?" us="?" perso="Fukaboshi" equipe="Famille royale de l'Île des Hommes-Poissons" style="Fukaboshi" arc="Île des Hommes-Poissons" image="Fukaboshi">
+        <template>Fukaboshi1</template>
+    </attaque>
+    <attaque nom="Shicchin Banpou" fr="?" us="?" perso="Manboshi" equipe="Famille royale de l'Île des Hommes-Poissons" style="Manboshi" arc="Île des Hommes-Poissons" image="Manboshi">
+        <template>Manboshi</template>
+    </attaque>
+    <attaque nom="Ryuuguu Roumon" fr="?" us="?" perso="Ryuboshi" equipe="Famille royale de l'Île des Hommes-Poissons" style="Ryuboshi" arc="Île des Hommes-Poissons" image="Ryuboshi">
+        <template>Ryuboshi</template>
+    </attaque>
+    <attaque nom="Gaon Hou" fr="?" us="?" perso="Franky (Cutty Flam)" equipe="Pirates du Chapeau de Paille" style="Franky 3" arc="Île des Hommes-Poissons" image="Franky">
+        <template>Franky 3</template>
+    </attaque>
+    <attaque nom="Super Armored Me" fr="?" us="?" perso="Franky (Cutty Flam)" equipe="Pirates du Chapeau de Paille" style="Franky 3" arc="Île des Hommes-Poissons" image="Franky">
+        <template>Franky 3 simple</template>
+    </attaque>
+    <attaque nom="Diable Jambe" fr="?" us="?" perso="Sanji" equipe="Pirates du Chapeau de Paille" style="Sanji 3 (DiableJambe)" arc="Île des Hommes-Poissons" image="Sanji">
+        <template>Sanji 3 (DiableJambe)</template>
+    </attaque>
+    <attaque nom="Poêle à Frire Spectre" fr="?" us="?" perso="Sanji" equipe="Pirates du Chapeau de Paille" style="Sanji 3 (DiableJambe)" arc="Île des Hommes-Poissons" image="Sanji">
+        <template>Sanji 3 (DiableJambe)</template>
+    </attaque>
+    <attaque nom="Midori Boshi" fr="?" us="?" perso="Usopp (Sogeking)" equipe="Pirates du Chapeau de Paille" style="Usopp 2" arc="Île des Hommes-Poissons" image="Usopp">
+        <template>Usopp 2</template>
+    </attaque>
+    <attaque nom="Hissatsu Midori Boshi Devil" fr="?" us="?" perso="Usopp (Sogeking)" equipe="Pirates du Chapeau de Paille" style="Usopp 2" arc="Île des Hommes-Poissons" image="Usopp">
+        <template>Usopp 2</template>
+    </attaque>
+    <attaque nom="Kung-fu Point" fr="?" us="?" perso="Tony Tony Chopper" equipe="Pirates du Chapeau de Paille" style="Chopper Kung-Fu" arc="Île des Hommes-Poissons" image="Chopper">
+        <template>Chopper Kung-Fu</template>
+    </attaque>
+    <attaque nom="Treinta Fleurs" fr="?" us="?" perso="Nico Robin (Miss All Sunday)" equipe="Pirates du Chapeau de Paille" style="Robin 2 (Treinta Fleurs)" arc="Île des Hommes-Poissons" image="Robin">
+        <template>Robin 2 (Treinta Fleurs)</template>
+    </attaque>
+    <attaque nom="Clutch" fr="?" us="?" perso="Nico Robin (Miss All Sunday)" equipe="Pirates du Chapeau de Paille" style="Robin 2 (Treinta Fleurs)" arc="Île des Hommes-Poissons" image="Robin">
+        <template>Robin 2 (Treinta Fleurs)</template>
+    </attaque>
+    <attaque nom="108 Pound Hou" fr="Hyakuhachi Pondo Hou" us="?" perso="Roronoa Zoro" equipe="Pirates du Chapeau de Paille" style="Zoro 2 (Hyakuhachi)" arc="Île des Hommes-Poissons" image="Zoro">
+        <template>Zoro 2 (Hyakuhachi)</template>
+    </attaque>
+    <attaque nom="Collier Shoot" fr="?" us="?" perso="Sanji" equipe="Pirates du Chapeau de Paille" style="Sanji 3 (DiableJambe)" arc="Île des Hommes-Poissons" image="Sanji">
+        <template>Sanji 3 (Collier)</template>
+    </attaque>
+    <attaque nom="Gear Third" fr="?" us="?" perso="Monkey D. Luffy" equipe="Pirates du Chapeau de Paille" style="Luffy 3" arc="Île des Hommes-Poissons" image="Luffy">
+        <template>Luffy 3</template>
+    </attaque>
+    <attaque nom="Gomu Gomu no Gigant Pistol" fr="?" us="?" perso="Monkey D. Luffy" equipe="Pirates du Chapeau de Paille" style="Luffy 3" arc="Île des Hommes-Poissons" image="Luffy">
+        <template>Luffy 3</template>
+    </attaque>
+    <attaque nom="Sky Walk" fr="?" us="?" perso="Sanji" equipe="Pirates du Chapeau de Paille" style="Sanji 3 (DiableJambe)" arc="Île des Hommes-Poissons" image="Sanji">
+        <template>Sanji 3 (DiableJambe)</template>
+    </attaque>
+    <attaque nom="Santouryuu Kokujou Ou Tatsumaki" fr="?" us="?" perso="Roronoa Zoro" equipe="Pirates du Chapeau de Paille" style="Zoro 2 (Hyakuhachi)" arc="Île des Hommes-Poissons" image="Zoro">
+        <template>Zoro 2 (Hyakuhachi)</template>
+    </attaque>
+    <attaque nom="Mille Fleurs" fr="?" us="?" perso="Nico Robin (Miss All Sunday)" equipe="Pirates du Chapeau de Paille" style="Robin 2 (Treinta Fleurs)" arc="Île des Hommes-Poissons" image="Robin">
+        <template>Robin 2 (Mille Fleurs)</template>
+    </attaque>
+    <attaque nom="Gigantesco Mano Stamp" fr="?" us="?" perso="Nico Robin (Miss All Sunday)" equipe="Pirates du Chapeau de Paille" style="Robin 2 (Treinta Fleurs)" arc="Île des Hommes-Poissons" image="Robin">
+        <template>Robin 2 (Mille Fleurs)</template>
+    </attaque>
+    <attaque nom="Kurosai FR-U IV" fr="?" us="?" perso="Franky (Cutty Flam)" equipe="Pirates du Chapeau de Paille" style="Franky 3" arc="Île des Hommes-Poissons" image="Franky">
+        <template>Franky 3 (Kurosai)</template>
+    </attaque>
+    <attaque nom="Soldier Dock System" fr="?" us="?" perso="Franky (Cutty Flam)" equipe="Pirates du Chapeau de Paille" style="Franky 3" arc="Île des Hommes-Poissons" image="Franky">
+        <template>Franky 3 (Kurosai)</template>
+    </attaque>
+    <attaque nom="Channel 4" fr="?" us="?" perso="Franky (Cutty Flam)" equipe="Pirates du Chapeau de Paille" style="Franky 3" arc="Île des Hommes-Poissons" image="Franky">
+        <template>Franky 3 (Kurosai)</template>
+    </attaque>
+    <attaque nom="New Number Channel 5" fr="?" us="?" perso="Franky (Cutty Flam)" equipe="Pirates du Chapeau de Paille" style="Franky 3" arc="Île des Hommes-Poissons" image="Franky">
+        <template>Franky 3 (Kurosai)</template>
+    </attaque>
+    <attaque nom="Brachio Tank V Gou" fr="?" us="?" perso="Franky (Cutty Flam)" equipe="Pirates du Chapeau de Paille" style="Franky 3" arc="Île des Hommes-Poissons" image="Franky">
+        <template>Franky 3 (Kurosai)</template>
+    </attaque>
+    <attaque nom="Party Music" fr="?" us="?" perso="Brook" equipe="Pirates du Chapeau de Paille" style="Brook" arc="Île des Hommes-Poissons" image="Brook">
+        <template>Brook (Party Music)</template>
+    </attaque>
+    <attaque nom="Quinto Tierce Fantasia" fr="?" us="?" perso="Brook" equipe="Pirates du Chapeau de Paille" style="Brook" arc="Île des Hommes-Poissons" image="Brook">
+        <template>Brook (Quinto Tierce Fantasia)</template>
+    </attaque>
+    <attaque nom="Gear Second" fr="?" us="?" perso="Monkey D. Luffy" equipe="Pirates du Chapeau de Paille" style="Luffy 3" arc="Île des Hommes-Poissons" image="Luffy">
+        <template>Luffy 3</template>
+    </attaque>
+    <attaque nom="Horn Point" fr="?" us="?" perso="Tony Tony Chopper" equipe="Pirates du Chapeau de Paille" style="Chopper Kung-Fu" arc="Île des Hommes-Poissons" image="Chopper">
+        <template>Chopper Kung-Fu</template>
+    </attaque>
+    <attaque nom="Hissatsu Midori Boshi Take Javelin" fr="?" us="?" perso="Usopp (Sogeking)" equipe="Pirates du Chapeau de Paille" style="Usopp 2" arc="Île des Hommes-Poissons" image="Usopp">
+        <template>Usopp 2</template>
+    </attaque>
+    <attaque nom="Sorcery Clima-Tact Gust Sword" fr="?" us="?" perso="Nami" equipe="Pirates du Chapeau de Paille" style="Nami" arc="Île des Hommes-Poissons" image="Nami">
+        <template>Nami (Sorcery Clima-Tact)</template>
+    </attaque>
+    <attaque nom="Stand By" fr="?" us="?" perso="Franky (Cutty Flam)" equipe="Pirates du Chapeau de Paille" style="Franky 3" arc="Île des Hommes-Poissons" image="Franky">
+        <template>Franky 3 (Kurosai)</template>
+    </attaque>
+    <attaque nom="Head Change" fr="?" us="?" perso="Franky (Cutty Flam)" equipe="Pirates du Chapeau de Paille" style="Franky 3" arc="Île des Hommes-Poissons" image="Franky">
+        <template>Franky 3 (Kurosai)</template>
+    </attaque>
+    <attaque nom="Docking" fr="?" us="?" perso="Franky (Cutty Flam)" equipe="Pirates du Chapeau de Paille" style="Franky 3" arc="Île des Hommes-Poissons" image="Franky">
+        <template>Franky 3 (Kurosai)</template>
+    </attaque>
+    <attaque nom="Iron Pirate" fr="?" us="?" perso="Franky (Cutty Flam)" equipe="Pirates du Chapeau de Paille" style="Franky 3" arc="Île des Hommes-Poissons" image="Franky">
+        <template>Franky 3 (Kurosai)</template>
+    </attaque>
+    <attaque nom="Franky Shogun" fr="?" us="?" perso="Franky (Cutty Flam)" equipe="Pirates du Chapeau de Paille" style="Franky 3" arc="Île des Hommes-Poissons" image="Franky">
+        <template>Franky 3 (Kurosai)</template>
+    </attaque>
+    <attaque nom="Franken" fr="?" us="?" perso="Franky (Cutty Flam)" equipe="Pirates du Chapeau de Paille" style="Franky 3" arc="Île des Hommes-Poissons" image="Franky">
+        <template>Franky 3 (Kurosai)</template>
+    </attaque>
+    <attaque nom="General" fr="?" us="?" perso="Franky (Cutty Flam)" equipe="Pirates du Chapeau de Paille" style="Franky 3" arc="Île des Hommes-Poissons" image="Franky">
+        <template>Franky 3 (Kurosai)</template>
+    </attaque>
+    <attaque nom="Ashimoto Dangerous" fr="?" us="?" perso="Franky (Cutty Flam)" equipe="Pirates du Chapeau de Paille" style="Franky 3" arc="Île des Hommes-Poissons" image="Franky">
+        <template>Franky 3 (Kurosai)</template>
+    </attaque>
+    <attaque nom="Franky Canon" fr="?" us="?" perso="Franky (Cutty Flam)" equipe="Pirates du Chapeau de Paille" style="Franky 3" arc="Île des Hommes-Poissons" image="Franky">
+        <template>Franky 3 (Kurosai)</template>
+    </attaque>
+    <attaque nom="Omomi" fr="?" us="?" perso="Franky (Cutty Flam)" equipe="Pirates du Chapeau de Paille" style="Franky 3" arc="Île des Hommes-Poissons" image="Franky">
+        <template>Franky 3 (Kurosai)</template>
+    </attaque>
+    <attaque nom="Cookie Cutter" fr="?" us="?" perso="Daruma" equipe="Pirates des Nouveaux Hommes-Poissons" style="Daruma" arc="Île des Hommes-Poissons" image="Daruma">
+        <template>Daruma</template>
+    </attaque>
+    <attaque nom="Atama Busou" fr="?" us="?" perso="Monkey D. Luffy" equipe="Pirates du Chapeau de Paille" style="Luffy 3" arc="Île des Hommes-Poissons" image="Luffy">
+        <template>Luffy 3</template>
+    </attaque>
+    <attaque nom="Gomu Gomu no Kane" fr="?" us="?" perso="Monkey D. Luffy" equipe="Pirates du Chapeau de Paille" style="Luffy 3" arc="Île des Hommes-Poissons" image="Luffy">
+        <template>Luffy 3</template>
+    </attaque>
+    <attaque nom="Gomu Gomu no Bullet" fr="?" us="?" perso="Monkey D. Luffy" equipe="Pirates du Chapeau de Paille" style="Luffy 3" arc="Île des Hommes-Poissons" image="Luffy">
+        <template>Luffy 3</template>
+    </attaque>
+    <attaque nom="Busoushoku Kouka" fr="?" us="?" perso="Monkey D. Luffy" equipe="Pirates du Chapeau de Paille" style="Luffy 3" arc="Île des Hommes-Poissons" image="Luffy">
+        <template>Luffy 3</template>
+    </attaque>
+    <attaque nom="Armée de l'air Gomu Shoot" fr="?" us="?" perso="Sanji" equipe="Pirates du Chapeau de Paille" style="combat SANJI" arc="Île des Hommes-Poissons" image="Sanji">
+        <template>Sanji 3 (Armée de l'air)</template>
+    </attaque>
+    <attaque nom="Chidoriashi Hash" fr="?" us="?" perso="Hyouzou" equipe="Pirates des Nouveaux Hommes-Poissons" style="Hyouzou" arc="Île des Hommes-Poissons" image="Hyouzou">
+        <template>Hyouzou</template>
+    </attaque>
+    <attaque nom="Kirisame" fr="?" us="?" perso="Hody Jones" equipe="Pirates des Nouveaux Hommes-Poissons" style="combat Hody_2" arc="Île des Hommes-Poissons" image="Hody">
+        <template>Hody 2</template>
+    </attaque>
+    <attaque nom="Gomu Gomu no Snake Shot" fr="?" us="?" perso="Monkey D. Luffy" equipe="Pirates du Chapeau de Paille" style="combat LUFFY" arc="Île des Hommes-Poissons" image="Luffy">
+        <template>Luffy</template>
+    </attaque>
+    <attaque nom="Nanasenmaigawara Mawashigeri" fr="?" us="?" perso="Jinbei" equipe="Sun Pirates" style="combat JIMBEI" arc="Île des Hommes-Poissons" image="Jinbei">
+        <template>Jinbei (Goutte)</template>
+    </attaque>
+    <attaque nom="Gear Second" fr="?" us="?" perso="Monkey D. Luffy" equipe="Pirates du Chapeau de Paille" style="combat LUFFY" arc="Île des Hommes-Poissons" image="Luffy">
+        <template>Luffy</template>
+    </attaque>
+    <attaque nom="Gomu Gomu no Jet Pistol" fr="?" us="?" perso="Monkey D. Luffy" equipe="Pirates du Chapeau de Paille" style="combat LUFFY" arc="Île des Hommes-Poissons" image="Luffy">
+        <template>Luffy</template>
+    </attaque>
+    <attaque nom="Gyojin Karate" fr="?" us="?" perso="Hody Jones" equipe="Pirates des Nouveaux Hommes-Poissons" style="combat Hody_2" arc="Île des Hommes-Poissons" image="Hody">
+        <template>Hody 2</template>
+    </attaque>
+    <attaque nom="Umidaiko" fr="?" us="?" perso="Hody Jones" equipe="Pirates des Nouveaux Hommes-Poissons" style="combat Hody_2" arc="Île des Hommes-Poissons" image="Hody">
+        <template>Hody 2</template>
+    </attaque>
+    <attaque nom="Merman Combat" fr="?" us="?" perso="Fukaboshi" equipe="Famille royale de l'Île des Hommes-Poissons" style="Fukaboshi 2" arc="Île des Hommes-Poissons" image="Fukaboshi">
+        <template>Fukaboshi 2</template>
+    </attaque>
+    <attaque nom="Ultramarine" fr="?" us="?" perso="Fukaboshi" equipe="Famille royale de l'Île des Hommes-Poissons" style="Fukaboshi 2" arc="Île des Hommes-Poissons" image="Fukaboshi">
+        <template>Fukaboshi 2</template>
+    </attaque>
+    <attaque nom="Cuerpo Fleurs" fr="?" us="?" perso="Nico Robin (Miss All Sunday)" equipe="Pirates du Chapeau de Paille" style="Robin 2 (Treinta Fleurs)" arc="Île des Hommes-Poissons" image="Robin">
+        <template>Robin 2 (Cuerpo Fleurs)</template>
+    </attaque>
+    <attaque nom="Double Clutch" fr="?" us="?" perso="Nico Robin (Miss All Sunday)" equipe="Pirates du Chapeau de Paille" style="Robin 2 (Treinta Fleurs)" arc="Île des Hommes-Poissons" image="Robin">
+        <template>Robin 2 (Cuerpo Fleurs)</template>
+    </attaque>
+    <attaque nom="Ikaku Mega Nyudo" fr="?" us="?" perso="Wadatsumi" equipe="Flying Pirates (Vander Decken IX)" style="Wadatsumi" arc="Île des Hommes-Poissons" image="Wadatsumi">
+        <template>Wadatsumi</template>
+    </attaque>
+    <attaque nom="Fugu" fr="?" us="?" perso="Wadatsumi" equipe="Flying Pirates (Vander Decken IX)" style="Wadatsumi" arc="Île des Hommes-Poissons" image="Wadatsumi">
+        <template>Wadatsumi</template>
+    </attaque>
+    <attaque nom="Ikaros no Tsubasa" fr="?" us="?" perso="Ikaros Much" equipe="Pirates des Nouveaux Hommes-Poissons" style="Ikaros" arc="Île des Hommes-Poissons" image="Ikaros">
+        <template>Ikaros</template>
+    </attaque>
+    <attaque nom="Franky Fireball" fr="?" us="?" perso="Franky (Cutty Flam)" equipe="Pirates du Chapeau de Paille" style="Franky 3" arc="Île des Hommes-Poissons" image="Franky">
+        <template>Franky 3 (Kurosai)</template>
+    </attaque>
+    <attaque nom="Heavy Point" fr="?" us="?" perso="Tony Tony Chopper" equipe="Pirates du Chapeau de Paille" style="Chopper Kung-Fu" arc="Île des Hommes-Poissons" image="Chopper">
+        <template>Chopper Kung-Fu</template>
+    </attaque>
+    <attaque nom="Heavy Gong" fr="?" us="?" perso="Tony Tony Chopper" equipe="Pirates du Chapeau de Paille" style="Chopper Kung-Fu" arc="Île des Hommes-Poissons" image="Chopper">
+        <template>Chopper Kung-Fu</template>
+    </attaque>
+    <attaque nom="T-Shot" fr="?" us="?" perso="Dosun" equipe="Pirates des Nouveaux Hommes-Poissons" style="Dosun" arc="Île des Hommes-Poissons" image="Dosun">
+        <template>Dosun</template>
+    </attaque>
+    <attaque nom="Camouflage Carpet" fr="?" us="?" perso="Zeo" equipe="Pirates des Nouveaux Hommes-Poissons" style="Zeo" arc="Île des Hommes-Poissons" image="Zeo">
+        <template>Zeo</template>
+    </attaque>
+    <attaque nom="Kamigakure Flail 66 Kubi" fr="?" us="?" perso="Zeo" equipe="Pirates des Nouveaux Hommes-Poissons" style="Zeo" arc="Île des Hommes-Poissons" image="Zeo">
+        <template>Zeo</template>
+    </attaque>
+    <attaque nom="Kogoeru Ken" fr="?" us="?" perso="Brook" equipe="Pirates du Chapeau de Paille" style="Brook" arc="Île des Hommes-Poissons" image="Brook">
+        <template>Brook (Quinto Tierce Fantasia)</template>
+    </attaque>
+    <attaque nom="Hi-Daruma Cutter" fr="?" us="?" perso="Daruma" equipe="Pirates des Nouveaux Hommes-Poissons" style="Daruma" arc="Île des Hommes-Poissons" image="Daruma">
+        <template>Daruma</template>
+    </attaque>
+    <attaque nom="Gomu Gomu no Jet Bazooka" fr="?" us="?" perso="Monkey D. Luffy" equipe="Pirates du Chapeau de Paille" style="combat LUFFY" arc="Île des Hommes-Poissons" image="Luffy">
+        <template>Luffy</template>
+    </attaque>
+    <attaque nom="Gomu Gomu no Red Hawk" fr="?" us="?" perso="Monkey D. Luffy" equipe="Pirates du Chapeau de Paille" style="combat LUFFY" arc="Île des Hommes-Poissons" image="Luffy">
+        <template>Luffy</template>
+    </attaque>
+    <attaque nom="Gear Second Busou" fr="?" us="?" perso="Monkey D. Luffy" equipe="Pirates du Chapeau de Paille" style="combat LUFFY" arc="Île des Hommes-Poissons" image="Luffy">
+        <template>Luffy</template>
+    </attaque>
+    <attaque nom="Gyojin Jujutsu" fr="?" us="?" perso="Hody Jones" equipe="Pirates des Nouveaux Hommes-Poissons" style="combat Hody_2" arc="Île des Hommes-Poissons" image="Hody">
+        <template>Hody 2</template>
+    </attaque>
+    <attaque nom="Mizugokoro" fr="?" us="?" perso="Hody Jones" equipe="Pirates des Nouveaux Hommes-Poissons" style="combat Hody_2" arc="Île des Hommes-Poissons" image="Hody">
+        <template>Hody 2</template>
+    </attaque>
+    <attaque nom="Murasame" fr="?" us="?" perso="Hody Jones" equipe="Pirates des Nouveaux Hommes-Poissons" style="combat Hody_2" arc="Île des Hommes-Poissons" image="Hody">
+        <template>Hody 2</template>
+    </attaque>
+    <attaque nom="Gomu Gomu no Elephant Gun" fr="?" us="?" perso="Monkey D. Luffy" equipe="Pirates du Chapeau de Paille" style="combat LUFFY" arc="Île des Hommes-Poissons" image="Luffy">
+        <template>Luffy</template>
+    </attaque>
+    <attaque nom="Gomu Gomu no Elephant Gatling" fr="?" us="?" perso="Monkey D. Luffy" equipe="Pirates du Chapeau de Paille" style="combat LUFFY" arc="Île des Hommes-Poissons" image="Luffy">
+        <template>Luffy</template>
+    </attaque>
+    <attaque nom="Kasuri Uta" fr="?" us="?" perso="Brook" equipe="Pirates du Chapeau de Paille" style="Brook" arc="Île des Hommes-Poissons" image="Brook">
+        <template>Brook (Quinto Tierce Fantasia)</template>
+    </attaque>
+    <attaque nom="Fubuki Giri" fr="?" us="?" perso="Brook" equipe="Pirates du Chapeau de Paille" style="Brook" arc="Île des Hommes-Poissons" image="Brook">
+        <template>Brook (Quinto Tierce Fantasia)</template>
+    </attaque>
+    <attaque nom="Human Drake" fr="?" us="?" perso="Usopp (Sogeking)" equipe="Pirates du Chapeau de Paille" style="Usopp 2" arc="Île des Hommes-Poissons" image="Usopp">
+        <template>Usopp 2</template>
+    </attaque>
+    <attaque nom="Impact Wolf" fr="?" us="?" perso="Usopp (Sogeking)" equipe="Pirates du Chapeau de Paille" style="Usopp 2" arc="Île des Hommes-Poissons" image="Usopp">
+        <template>Usopp 2</template>
+    </attaque>
+    <attaque nom="Kokutei Palm" fr="?" us="?" perso="Tony Tony Chopper" equipe="Pirates du Chapeau de Paille" style="Chopper Kung-Fu" arc="Île des Hommes-Poissons" image="Chopper">
+        <template>Chopper Kung-Fu</template>
+    </attaque>
+    <attaque nom="Papara Hammer" fr="?" us="?" perso="Dosun" equipe="Pirates des Nouveaux Hommes-Poissons" style="Dosun" arc="Île des Hommes-Poissons" image="Dosun">
+        <template>Dosun</template>
+    </attaque>
+    <attaque nom="Franky Radical Beam" fr="?" us="?" perso="Franky (Cutty Flam)" equipe="Pirates du Chapeau de Paille" style="Franky 3" arc="Île des Hommes-Poissons" image="Franky">
+        <template>Franky 3 (Kurosai)</template>
+    </attaque>
+    <attaque nom="Ougi Buraikan" fr="?" us="?" perso="Jinbei" equipe="Sun Pirates" style="combat JIMBEI" arc="Île des Hommes-Poissons" image="Jinbei">
+        <template>Jinbei (Ougi Buraikan)</template>
+    </attaque>
+    <attaque nom="Hell Memories" fr="?" us="?" perso="Sanji" equipe="Pirates du Chapeau de Paille" style="Sanji 3 (DiableJambe)" arc="Île des Hommes-Poissons" image="Sanji">
+        <template>Sanji 3 (Hell Memories)</template>
+    </attaque>
+    <attaque nom="Rengoku" fr="?" us="?" perso="Roronoa Zoro" equipe="Pirates du Chapeau de Paille" style="Zoro 2 (Hyakuhachi)" arc="Île des Hommes-Poissons" image="Zoro">
+        <template>Zoro 2 (Hyakuhachi)</template>
+    </attaque>
+    <attaque nom="Oni Giri" fr="?" us="?" perso="Roronoa Zoro" equipe="Pirates du Chapeau de Paille" style="Zoro 2 (Hyakuhachi)" arc="Île des Hommes-Poissons" image="Zoro">
+        <template>Zoro 2 (Hyakuhachi)</template>
+    </attaque>
+    <attaque nom="Super Afro" fr="?" us="?" perso="Franky (Cutty Flam)" equipe="Pirates du Chapeau de Paille" style="Franky 3" arc="Île des Hommes-Poissons" image="Franky">
+        <template>Franky 3 (Kurosai)</template>
+    </attaque>
+    <attaque nom="Uchimizu" fr="?" us="?" perso="Jinbei" equipe="Sun Pirates" style="combat JIMBEI" arc="Île des Hommes-Poissons" image="Jinbei">
+        <template>Jinbei (Ougi Buraikan)</template>
+    </attaque>
+    <attaque nom="Uma Uma no Gatling Gun" fr="?" us="?" perso="Caribou" equipe="Caribou Pirates (Caribou)" style="Caribou" arc="Île des Hommes-Poissons" image="Caribou">
+        <template>Caribou</template>
+    </attaque>
+    <attaque nom="Hokaku Boshi" fr="?" us="?" perso="Usopp (Sogeking)" equipe="Pirates du Chapeau de Paille" style="Usopp 2" arc="Île des Hommes-Poissons" image="Usopp">
+        <template>Usopp 2</template>
+    </attaque>
+    <attaque nom="Ittouryuu 360 Pound Hou" fr="?" us="?" perso="Roronoa Zoro" equipe="Pirates du Chapeau de Paille" style="Zoro 2 (Hyakuhachi)" arc="Île des Hommes-Poissons" image="Zoro">
+        <template>Zoro 2 (360 Pound Hou)</template>
+    </attaque>
+    <attaque nom="Gomu Gomu no Gigant Pistol" fr="?" us="?" perso="Monkey D. Luffy" equipe="Pirates du Chapeau de Paille" style="combat LUFFY" arc="Spécial Z" image="Luffy">
+        <template>Luffy</template>
+    </attaque>
+    <attaque nom="Gomu Gomu no Propeller" fr="?" us="?" perso="Monkey D. Luffy" equipe="Pirates du Chapeau de Paille" style="combat LUFFY" arc="Spécial Z" image="Luffy">
+        <template>Luffy</template>
+    </attaque>
+    <attaque nom="Propeller Midoshi" fr="?" us="?" perso="Monkey D. Luffy" equipe="Pirates du Chapeau de Paille" style="combat LUFFY" arc="Spécial Z" image="Luffy">
+        <template>Luffy</template>
+    </attaque>
+    <attaque nom="Gigantesco Mano" fr="?" us="?" perso="Nico Robin (Miss All Sunday)" equipe="Pirates du Chapeau de Paille" style="Robin 2 (Treinta Fleurs)" arc="Spécial Z" image="Robin">
+        <template>Robin 2 (Mille Fleurs)</template>
+    </attaque>
+    <attaque nom="Coup de Burst" fr="?" us="?" perso="Franky (Cutty Flam)" equipe="Pirates du Chapeau de Paille" style="Franky 3" arc="Spécial Z" image="Franky">
+        <template>Franky 3 (Kurosai)</template>
+    </attaque>
+    <attaque nom="Clutch" fr="?" us="?" perso="Nico Robin (Miss All Sunday)" equipe="Pirates du Chapeau de Paille" style="Robin 2 (Treinta Fleurs)" arc="Spécial Z" image="Robin">
+        <template>Robin 2 (Mille Fleurs)</template>
+    </attaque>
+    <attaque nom="Cien Fleurs" fr="?" us="?" perso="Nico Robin (Miss All Sunday)" equipe="Pirates du Chapeau de Paille" style="Robin 2 (Treinta Fleurs)" arc="Spécial Z" image="Robin">
+        <template>Robin 2 (Mille Fleurs)</template>
+    </attaque>
+    <attaque nom="Tekkai" fr="?" us="?" perso="Shuzo" equipe="Neo Marines" style="Shuzo" arc="Spécial Z" image="Shuzo">
+        <template>Shuzo</template>
+    </attaque>
+    <attaque nom="Sansetsu Lariat" fr="?" us="?" perso="Shuzo" equipe="Neo Marines" style="Shuzo" arc="Spécial Z" image="Shuzo">
+        <template>Shuzo</template>
+    </attaque>
+    <attaque nom="Gomu Gomu no Fuusen" fr="?" us="?" perso="Monkey D. Luffy" equipe="Pirates du Chapeau de Paille" style="combat LUFFY" arc="Spécial Z" image="Luffy">
+        <template>Luffy</template>
+    </attaque>
+    <attaque nom="Gomu Gomu no Jet Gatling" fr="?" us="?" perso="Monkey D. Luffy" equipe="Pirates du Chapeau de Paille" style="combat LUFFY" arc="Spécial Z" image="Luffy">
+        <template>Luffy</template>
+    </attaque>
+    <attaque nom="Party Table Kick Course" fr="?" us="?" perso="Sanji" equipe="Pirates du Chapeau de Paille" style="Sanji 3 (DiableJambe)" arc="Spécial Z" image="Sanji">
+        <template>Sanji 3 (Hell Memories)</template>
+    </attaque>
+    <attaque nom="Treinta Fleurs" fr="?" us="?" perso="Nico Robin (Miss All Sunday)" equipe="Pirates du Chapeau de Paille" style="Robin 2 (Treinta Fleurs)" arc="Spécial Z" image="Robin">
+        <template>Robin 2 (Mille Fleurs)</template>
+    </attaque>
+    <attaque nom="Strangle" fr="?" us="?" perso="Nico Robin (Miss All Sunday)" equipe="Pirates du Chapeau de Paille" style="Robin 2 (Treinta Fleurs)" arc="Spécial Z" image="Robin">
+        <template>Robin 2 (Mille Fleurs)</template>
+    </attaque>
+    <attaque nom="Chicken Voyage" fr="?" us="?" perso="Franky (Cutty Flam)" equipe="Pirates du Chapeau de Paille" style="Franky 3" arc="Spécial Z" image="Franky">
+        <template>Franky 3 (Kurosai)</template>
+    </attaque>
+    <attaque nom="Ochenta Fleurs" fr="?" us="?" perso="Nico Robin (Miss All Sunday)" equipe="Pirates du Chapeau de Paille" style="Robin 2 (Treinta Fleurs)" arc="Spécial Z" image="Robin">
+        <template>Robin 2 (Mille Fleurs)</template>
+    </attaque>
+    <attaque nom="Shigan" fr="?" us="?" perso="Shuzo" equipe="Neo Marines" style="Shuzo" arc="Spécial Z" image="Shuzo">
+        <template>Shuzo</template>
+    </attaque>
+    <attaque nom="Soru" fr="?" us="?" perso="Shuzo" equipe="Neo Marines" style="Shuzo" arc="Spécial Z" image="Shuzo">
+        <template>Shuzo</template>
+    </attaque>
+    <attaque nom="Geppou" fr="?" us="?" perso="Shuzo" equipe="Neo Marines" style="Shuzo" arc="Spécial Z" image="Shuzo">
+        <template>Shuzo</template>
+    </attaque>
+    <attaque nom="Shigan Five" fr="?" us="?" perso="Shuzo" equipe="Neo Marines" style="Shuzo" arc="Spécial Z" image="Shuzo">
+        <template>Shuzo</template>
+    </attaque>
+    <attaque nom="Shigan Ten" fr="?" us="?" perso="Shuzo" equipe="Neo Marines" style="Shuzo" arc="Spécial Z" image="Shuzo">
+        <template>Shuzo</template>
+    </attaque>
+    <attaque nom="Gomu Gomu no Jet Whip" fr="?" us="?" perso="Monkey D. Luffy" equipe="Pirates du Chapeau de Paille" style="combat LUFFY" arc="Spécial Z" image="Luffy">
+        <template>Luffy</template>
+    </attaque>
+    <attaque nom="Busou" fr="?" us="?" perso="Monkey D. Luffy" equipe="Pirates du Chapeau de Paille" style="combat LUFFY" arc="Spécial Z" image="Luffy">
+        <template>Luffy</template>
+    </attaque>
+    <attaque nom="Gomu Gomu no Giant Jet Lance" fr="?" us="?" perso="Monkey D. Luffy" equipe="Pirates du Chapeau de Paille" style="combat LUFFY" arc="Spécial Z" image="Luffy">
+        <template>Luffy</template>
+    </attaque>
+    <attaque nom="Milky Road" fr="?" us="?" perso="Nami" equipe="Pirates du Chapeau de Paille" style="Nami" arc="Punk Hazard" image="Nami">
+        <template>Nami (Sorcery Clima-Tact)</template>
+    </attaque>
+    <attaque nom="Gomu Gomu no Jet Bullet" fr="?" us="?" perso="Monkey D. Luffy" equipe="Pirates du Chapeau de Paille" style="combat LUFFY" arc="Punk Hazard" image="Luffy">
+        <template>Luffy</template>
+    </attaque>
+    <attaque nom="Santouryuu Urutoragari" fr="?" us="?" perso="Roronoa Zoro" equipe="Pirates du Chapeau de Paille" style="Zoro 2 (Hyakuhachi)" arc="Punk Hazard" image="Zoro">
+        <template>Zoro 2 (360 Pound Hou)</template>
+    </attaque>
+    <attaque nom="Ittouryuu Iai Shi Shishi Sonson" fr="?" us="?" perso="Roronoa Zoro" equipe="Pirates du Chapeau de Paille" style="Zoro 2 (Hyakuhachi)" arc="Punk Hazard" image="Zoro">
+        <template>Zoro 2 (360 Pound Hou)</template>
+    </attaque>
+    <attaque nom="Hissatsu Midori Boshi Trampolia" fr="?" us="?" perso="Usopp (Sogeking)" equipe="Pirates du Chapeau de Paille" style="Usopp 2" arc="Punk Hazard" image="Usopp">
+        <template>Usopp 2</template>
+    </attaque>
+    <attaque nom="Hanauta Sancho Yahazu Giri" fr="?" us="?" perso="Brook" equipe="Pirates du Chapeau de Paille" style="Brook" arc="Punk Hazard" image="Brook">
+        <template>Brook (Party Music)</template>
+    </attaque>
+    <attaque nom="Rindou" fr="?" us="?" perso="Nico Robin (Miss All Sunday)" equipe="Pirates du Chapeau de Paille" style="Robin 2 (Treinta Fleurs)" arc="Punk Hazard" image="Robin">
+        <template>Robin 2 (Mille Fleurs)</template>
+    </attaque>
+    <attaque nom="Weapons Left" fr="?" us="?" perso="Franky (Cutty Flam)" equipe="Pirates du Chapeau de Paille" style="Franky 3" arc="Punk Hazard" image="Franky">
+        <template>Franky 3 (Kurosai)</template>
+    </attaque>
+    <attaque nom="Strong Right" fr="?" us="?" perso="Franky (Cutty Flam)" equipe="Pirates du Chapeau de Paille" style="Franky 3" arc="Punk Hazard" image="Franky">
+        <template>Franky 3 (Kurosai)</template>
+    </attaque>
+    <attaque nom="Uchiwa Sou" fr="?" us="?" perso="Usopp (Sogeking)" equipe="Pirates du Chapeau de Paille" style="Usopp 2" arc="Punk Hazard" image="Usopp">
+        <template>Usopp 2</template>
+    </attaque>
+    <attaque nom="Boaty Banana" fr="?" us="?" perso="Usopp (Sogeking)" equipe="Pirates du Chapeau de Paille" style="Usopp 2" arc="Punk Hazard" image="Usopp">
+        <template>Usopp 2</template>
+    </attaque>
+    <attaque nom="Diable Jambe" fr="?" us="?" perso="Sanji" equipe="Pirates du Chapeau de Paille" style="Sanji 3 (DiableJambe)" arc="Punk Hazard" image="Sanji">
+        <template>Sanji 3 (Hell Memories)</template>
+    </attaque>
+    <attaque nom="Collier Strike" fr="?" us="?" perso="Sanji" equipe="Pirates du Chapeau de Paille" style="Sanji 3 (DiableJambe)" arc="Punk Hazard" image="Sanji">
+        <template>Sanji 3 (Hell Memories)</template>
+    </attaque>
+    <attaque nom="Aubade Coup Droit" fr="?" us="?" perso="Brook" equipe="Pirates du Chapeau de Paille" style="Brook" arc="Punk Hazard" image="Brook">
+        <template>Brook (Party Music)</template>
+    </attaque>
+    <attaque nom="Gomu Gomu no Ashi-maro Fuusen" fr="?" us="?" perso="Monkey D. Luffy" equipe="Pirates du Chapeau de Paille" style="combat LUFFY" arc="Punk Hazard" image="Luffy">
+        <template>Luffy</template>
+    </attaque>
+    <attaque nom="Repel" fr="?" us="?" perso="Eustass Kid" equipe="Kid Pirates (Eustass Kid)" style="Eustass Kid" arc="Punk Hazard" image="Kid">
+        <template>Eustass Kid</template>
+    </attaque>
+    <attaque nom="Room" fr="?" us="?" perso="Trafalgar Law" equipe="Heart Pirates (Trafalgar Law)" style="Trafalgar Law" arc="Punk Hazard" image="Law">
+        <template>Trafalgar Law</template>
+    </attaque>
+    <attaque nom="Shambles" fr="?" us="?" perso="Trafalgar Law" equipe="Heart Pirates (Trafalgar Law)" style="Trafalgar Law" arc="Punk Hazard" image="Law">
+        <template>Trafalgar Law</template>
+    </attaque>
+    <attaque nom="Tact" fr="?" us="?" perso="Trafalgar Law" equipe="Heart Pirates (Trafalgar Law)" style="Trafalgar Law" arc="Punk Hazard" image="Law">
+        <template>Trafalgar Law</template>
+    </attaque>
+    <attaque nom="Scan" fr="?" us="?" perso="Trafalgar Law" equipe="Heart Pirates (Trafalgar Law)" style="Trafalgar Law" arc="Punk Hazard" image="Law">
+        <template>Trafalgar Law</template>
+    </attaque>
+    <attaque nom="Mes" fr="?" us="?" perso="Trafalgar Law" equipe="Heart Pirates (Trafalgar Law)" style="Trafalgar Law" arc="Punk Hazard" image="Law">
+        <template>Trafalgar Law</template>
+    </attaque>
+    <attaque nom="White Blow" fr="?" us="?" perso="Smoker" equipe="Marines" style="Smoker" arc="Punk Hazard" image="Smoker">
+        <template>Smoker</template>
+    </attaque>
+    <attaque nom="Hissatsu Bakusuiboshi" fr="?" us="?" perso="Usopp (Sogeking)" equipe="Pirates du Chapeau de Paille" style="Usopp 2" arc="Punk Hazard" image="Usopp">
+        <template>Usopp 2</template>
+    </attaque>
+    <attaque nom="Busou Kouka" fr="?" us="?" perso="Monkey D. Luffy" equipe="Pirates du Chapeau de Paille" style="combat LUFFY" arc="Punk Hazard" image="Luffy">
+        <template>Luffy</template>
+    </attaque>
+    <attaque nom="Gomu Gomu no Gatling" fr="?" us="?" perso="Monkey D. Luffy" equipe="Pirates du Chapeau de Paille" style="combat LUFFY" arc="Punk Hazard" image="Luffy">
+        <template>Luffy</template>
+    </attaque>
+    <attaque nom="Gomu Gomu no Jet Stamp" fr="?" us="?" perso="Monkey D. Luffy" equipe="Pirates du Chapeau de Paille" style="combat LUFFY" arc="Punk Hazard" image="Luffy">
+        <template>Luffy</template>
+    </attaque>
+    <attaque nom="Gomu Gomu no Orei Fire" fr="?" us="?" perso="Monkey D. Luffy" equipe="Pirates du Chapeau de Paille" style="combat LUFFY" arc="Punk Hazard" image="Luffy">
+        <template>Luffy</template>
+    </attaque>
+    <attaque nom="Counter Shock" fr="?" us="?" perso="Trafalgar Law" equipe="Heart Pirates (Trafalgar Law)" style="Trafalgar Law" arc="Punk Hazard" image="Law">
+        <template>Trafalgar Law</template>
+    </attaque>
+    <attaque nom="Wing" fr="?" us="?" perso="Nico Robin (Miss All Sunday)" equipe="Pirates du Chapeau de Paille" style="Robin 2 (Treinta Fleurs)" arc="Punk Hazard" image="Robin">
+        <template>Robin 2 (Mille Fleurs)</template>
+    </attaque>
+    <attaque nom="Gomu Gomu no Kane" fr="?" us="?" perso="Monkey D. Luffy" equipe="Pirates du Chapeau de Paille" style="combat LUFFY" arc="Punk Hazard" image="Luffy">
+        <template>Luffy</template>
+    </attaque>
+    <attaque nom="Gomu Gomu no Jet Mace" fr="?" us="?" perso="Monkey D. Luffy" equipe="Pirates du Chapeau de Paille" style="combat LUFFY" arc="Punk Hazard" image="Luffy">
+        <template>Luffy</template>
+    </attaque>
+    <attaque nom="Gas Robe" fr="?" us="?" perso="Caesar Clown (Master)" equipe="Donquixote Pirates (Donquixote Doflamingo)" style="Caesar Clown" arc="Punk Hazard" image="Caesar Clown">
+        <template>Caesar Clown</template>
+    </attaque>
+    <attaque nom="Gastagnette" fr="?" us="?" perso="Caesar Clown (Master)" equipe="Donquixote Pirates (Donquixote Doflamingo)" style="Caesar Clown" arc="Punk Hazard" image="Caesar Clown">
+        <template>Caesar Clown</template>
+    </attaque>
+    <attaque nom="Joue Shoot" fr="?" us="?" perso="Sanji" equipe="Pirates du Chapeau de Paille" style="Sanji 3 (DiableJambe)" arc="Punk Hazard" image="Sanji">
+        <template>Sanji 3 (Hell Memories)</template>
+    </attaque>
+    <attaque nom="Blue Walk" fr="?" us="?" perso="Sanji" equipe="Pirates du Chapeau de Paille" style="Sanji 3 (DiableJambe)" arc="Punk Hazard" image="Sanji">
+        <template>Sanji 3 (Hell Memories)</template>
+    </attaque>
+    <attaque nom="Hissatsu Fire Bird Star" fr="?" us="?" perso="Usopp (Sogeking)" equipe="Pirates du Chapeau de Paille" style="Usopp 2" arc="Punk Hazard" image="Usopp">
+        <template>Usopp 2</template>
+    </attaque>
+    <attaque nom="Black Ball" fr="?" us="?" perso="Nami" equipe="Pirates du Chapeau de Paille" style="Nami" arc="Punk Hazard" image="Nami">
+        <template>Nami (Sorcery Clima-Tact)</template>
+    </attaque>
+    <attaque nom="Coup de Boo" fr="?" us="?" perso="Franky (Cutty Flam)" equipe="Pirates du Chapeau de Paille" style="Franky 3" arc="Punk Hazard" image="Franky">
+        <template>Franky 3 (Kurosai)</template>
+    </attaque>
+    <attaque nom="Gomu Gomu no UFO" fr="?" us="?" perso="Monkey D. Luffy" equipe="Pirates du Chapeau de Paille" style="combat LUFFY" arc="Punk Hazard" image="Luffy">
+        <template>Luffy</template>
+    </attaque>
+    <attaque nom="Nenshoukei" fr="?" us="?" perso="Caesar Clown (Master)" equipe="Donquixote Pirates (Donquixote Doflamingo)" style="Caesar Clown 2" arc="Punk Hazard" image="Caesar Clown">
+        <template>Caesar Clown 2</template>
+    </attaque>
+    <attaque nom="Mok Gas" fr="?" us="?" perso="Caesar Clown (Master)" equipe="Donquixote Pirates (Donquixote Doflamingo)" style="Caesar Clown 2" arc="Punk Hazard" image="Caesar Clown">
+        <template>Caesar Clown 2</template>
+    </attaque>
+    <attaque nom="Blue Sword" fr="?" us="?" perso="Caesar Clown (Master)" equipe="Donquixote Pirates (Donquixote Doflamingo)" style="Caesar Clown 2" arc="Punk Hazard" image="Caesar Clown">
+        <template>Caesar Clown 2</template>
+    </attaque>
+    <attaque nom="Karakuni" fr="?" us="?" perso="Caesar Clown (Master)" equipe="Donquixote Pirates (Donquixote Doflamingo)" style="Caesar Clown 2" arc="Punk Hazard" image="Caesar Clown">
+        <template>Caesar Clown 2</template>
+    </attaque>
+    <attaque nom="Flanchet Strike" fr="?" us="?" perso="Sanji" equipe="Pirates du Chapeau de Paille" style="Sanji 3 (DiableJambe)" arc="Punk Hazard" image="Sanji">
+        <template>Sanji 3 (Hell Memories)</template>
+    </attaque>
+    <attaque nom="Kamakura" fr="?" us="?" perso="Monet" equipe="Donquixote Pirates (Donquixote Doflamingo)" style="Monet" arc="Punk Hazard" image="Monet">
+        <template>Monet</template>
+    </attaque>
+    <attaque nom="Thunder Trap" fr="?" us="?" perso="Nami" equipe="Pirates du Chapeau de Paille" style="Nami" arc="Punk Hazard" image="Nami">
+        <template>Nami (Sorcery Clima-Tact)</template>
+    </attaque>
+    <attaque nom="Hissatsu Midori Boshi Rafflesia" fr="?" us="?" perso="Usopp (Sogeking)" equipe="Pirates du Chapeau de Paille" style="Usopp 2" arc="Punk Hazard" image="Usopp">
+        <template>Usopp 2</template>
+    </attaque>
+    <attaque nom="Quarenta Fleurs" fr="?" us="?" perso="Nico Robin (Miss All Sunday)" equipe="Pirates du Chapeau de Paille" style="Robin 2 (Treinta Fleurs)" arc="Punk Hazard" image="Robin">
+        <template>Robin 2 (Mille Fleurs)</template>
+    </attaque>
+    <attaque nom="Quatro Mano" fr="?" us="?" perso="Nico Robin (Miss All Sunday)" equipe="Pirates du Chapeau de Paille" style="Robin 2 (Treinta Fleurs)" arc="Punk Hazard" image="Robin">
+        <template>Robin 2 (Mille Fleurs)</template>
+    </attaque>
+    <attaque nom="Hold" fr="?" us="?" perso="Nico Robin (Miss All Sunday)" equipe="Pirates du Chapeau de Paille" style="Robin 2 (Treinta Fleurs)" arc="Punk Hazard" image="Robin">
+        <template>Robin 2 (Mille Fleurs)</template>
+    </attaque>
+    <attaque nom="Gavotte Bond Avant" fr="?" us="?" perso="Brook" equipe="Pirates du Chapeau de Paille" style="Brook" arc="Punk Hazard" image="Brook">
+        <template>Brook (Party Music)</template>
+    </attaque>
+    <attaque nom="Kitsunebiryuu" fr="?" us="?" perso="Kin'emon" equipe="Pays de Wano" style="Kin'emon" arc="Punk Hazard" image="Kin'emon">
+        <template>Kin'emon</template>
+    </attaque>
+    <attaque nom="Homurasaki" fr="?" us="?" perso="Kin'emon" equipe="Pays de Wano" style="Kin'emon" arc="Punk Hazard" image="Kin'emon">
+        <template>Kin'emon</template>
+    </attaque>
+    <attaque nom="Karyuu Issen" fr="?" us="?" perso="Kin'emon" equipe="Pays de Wano" style="Kin'emon" arc="Punk Hazard" image="Kin'emon">
+        <template>Kin'emon</template>
+    </attaque>
+    <attaque nom="Jet Spear" fr="?" us="?" perso="Monkey D. Luffy" equipe="Pirates du Chapeau de Paille" style="combat LUFFY" arc="Punk Hazard" image="Luffy">
+        <template>Luffy</template>
+    </attaque>
+    <attaque nom="Soru" fr="?" us="?" perso="Vergo" equipe="Donquixote Pirates (Donquixote Doflamingo)" style="Vergo" arc="Punk Hazard" image="Vergo">
+        <template>Vergo</template>
+    </attaque>
+    <attaque nom="Heat Egg" fr="?" us="?" perso="Nami" equipe="Pirates du Chapeau de Paille" style="Nami" arc="Punk Hazard" image="Nami">
+        <template>Nami (Sorcery Clima-Tact)</template>
+    </attaque>
+    <attaque nom="Yuki Gaki" fr="?" us="?" perso="Monet" equipe="Donquixote Pirates (Donquixote Doflamingo)" style="Monet" arc="Punk Hazard" image="Monet">
+        <template>Monet</template>
+    </attaque>
+    <attaque nom="Mannen Yuki" fr="?" us="?" perso="Monet" equipe="Donquixote Pirates (Donquixote Doflamingo)" style="Monet" arc="Punk Hazard" image="Monet">
+        <template>Monet</template>
+    </attaque>
+    <attaque nom="Tabira Yuki" fr="?" us="?" perso="Monet" equipe="Donquixote Pirates (Donquixote Doflamingo)" style="Monet" arc="Punk Hazard" image="Monet">
+        <template>Monet</template>
+    </attaque>
+    <attaque nom="Hada Gatana" fr="?" us="?" perso="Monet" equipe="Donquixote Pirates (Donquixote Doflamingo)" style="Monet" arc="Punk Hazard" image="Monet">
+        <template>Monet</template>
+    </attaque>
+    <attaque nom="Spank" fr="?" us="?" perso="Nico Robin (Miss All Sunday)" equipe="Pirates du Chapeau de Paille" style="Robin 2 (Treinta Fleurs)" arc="Punk Hazard" image="Robin">
+        <template>Robin 2 (Mille Fleurs)</template>
+    </attaque>
+    <attaque nom="Yuki Rabbits" fr="?" us="?" perso="Monet" equipe="Donquixote Pirates (Donquixote Doflamingo)" style="Monet" arc="Punk Hazard" image="Monet">
+        <template>Monet</template>
+    </attaque>
+    <attaque nom="Fubuki" fr="?" us="?" perso="Monet" equipe="Donquixote Pirates (Donquixote Doflamingo)" style="Monet" arc="Punk Hazard" image="Monet">
+        <template>Monet</template>
+    </attaque>
+    <attaque nom="Soru" fr="?" us="?" perso="Tashigi" equipe="Marines" style="Tashigi" arc="Punk Hazard" image="Tashigi">
+        <template>Tashigi</template>
+    </attaque>
+    <attaque nom="Kirishigure" fr="?" us="?" perso="Tashigi" equipe="Marines" style="Tashigi" arc="Punk Hazard" image="Tashigi">
+        <template>Tashigi</template>
+    </attaque>
+    <attaque nom="Ittouryuu Daishinkan" fr="?" us="?" perso="Roronoa Zoro" equipe="Pirates du Chapeau de Paille" style="Zoro 2 (Hyakuhachi)" arc="Punk Hazard" image="Zoro">
+        <template>Zoro 2 (360 Pound Hou)</template>
+    </attaque>
+    <attaque nom="Milky Ball" fr="?" us="?" perso="Nami" equipe="Pirates du Chapeau de Paille" style="Nami" arc="Punk Hazard" image="Nami">
+        <template>Nami (Sorcery Clima-Tact)</template>
+    </attaque>
+    <attaque nom="Gastagne" fr="?" us="?" perso="Caesar Clown (Master)" equipe="Donquixote Pirates (Donquixote Doflamingo)" style="Caesar Clown" arc="Punk Hazard" image="Caesar Clown">
+        <template>Caesar Clown</template>
+    </attaque>
+    <attaque nom="Gastille" fr="?" us="?" perso="Caesar Clown (Master)" equipe="Donquixote Pirates (Donquixote Doflamingo)" style="Caesar Clown 2" arc="Punk Hazard" image="Caesar Clown">
+        <template>Caesar Clown 2</template>
+    </attaque>
+    <attaque nom="Oni Take" fr="?" us="?" perso="Vergo" equipe="Donquixote Pirates (Donquixote Doflamingo)" style="Vergo" arc="Punk Hazard" image="Vergo">
+        <template>Vergo</template>
+    </attaque>
+    <attaque nom="Gomu Gomu no Grizzly Magnum" fr="?" us="?" perso="Monkey D. Luffy" equipe="Pirates du Chapeau de Paille" style="combat LUFFY" arc="Punk Hazard" image="Luffy">
+        <template>Luffy</template>
+    </attaque>
+    <attaque nom="Toppu Matasaburou" fr="?" us="?" perso="Buffalo" equipe="Donquixote Pirates (Donquixote Doflamingo)" style="Buffalo" arc="Punk Hazard" image="Buffalo">
+        <template>Buffalo</template>
+    </attaque>
+    <attaque nom="General Left" fr="?" us="?" perso="Franky (Cutty Flam)" equipe="Pirates du Chapeau de Paille" style="Franky 3" arc="Punk Hazard" image="Franky">
+        <template>Franky 3 (Kurosai)</template>
+    </attaque>
+    <attaque nom="General Shield" fr="?" us="?" perso="Franky (Cutty Flam)" equipe="Pirates du Chapeau de Paille" style="Franky 3" arc="Punk Hazard" image="Franky">
+        <template>Franky 3 (Kurosai)</template>
+    </attaque>
+    <attaque nom="Boomerang" fr="?" us="?" perso="Franky (Cutty Flam)" equipe="Pirates du Chapeau de Paille" style="Franky 3" arc="Punk Hazard" image="Franky">
+        <template>Franky 3 (Kurosai)</template>
+    </attaque>
+    <attaque nom="General Shield Boomerang" fr="?" us="?" perso="Franky (Cutty Flam)" equipe="Pirates du Chapeau de Paille" style="Franky 3" arc="Punk Hazard" image="Franky">
+        <template>Franky 3 (Kurosai)</template>
+    </attaque>
+    <attaque nom="Buki-morphose" fr="?" us="?" perso="Baby 5" equipe="Donquixote Pirates (Donquixote Doflamingo)" style="Baby 5" arc="Punk Hazard" image="Baby 5">
+        <template>Baby 5</template>
+    </attaque>
+    <attaque nom="Espada Girl" fr="?" us="?" perso="Baby 5" equipe="Donquixote Pirates (Donquixote Doflamingo)" style="Baby 5" arc="Punk Hazard" image="Baby 5">
+        <template>Baby 5</template>
+    </attaque>
+    <attaque nom="Missile Girl" fr="?" us="?" perso="Baby 5" equipe="Donquixote Pirates (Donquixote Doflamingo)" style="Baby 5" arc="Punk Hazard" image="Baby 5">
+        <template>Baby 5</template>
+    </attaque>
+    <attaque nom="Guru Guru Toshaho" fr="?" us="?" perso="Buffalo" equipe="Donquixote Pirates (Donquixote Doflamingo)" style="Buffalo" arc="Punk Hazard" image="Buffalo">
+        <template>Buffalo</template>
+    </attaque>
+    <attaque nom="Revolver Girl" fr="?" us="?" perso="Baby 5" equipe="Donquixote Pirates (Donquixote Doflamingo)" style="Baby 5" arc="Punk Hazard" image="Baby 5">
+        <template>Baby 5</template>
+    </attaque>
+    <attaque nom="Flying Disc Girl" fr="?" us="?" perso="Baby 5" equipe="Donquixote Pirates (Donquixote Doflamingo)" style="Baby 5" arc="Punk Hazard" image="Baby 5">
+        <template>Baby 5</template>
+    </attaque>
+    <attaque nom="Fire Girl" fr="?" us="?" perso="Baby 5" equipe="Donquixote Pirates (Donquixote Doflamingo)" style="Baby 5" arc="Punk Hazard" image="Baby 5">
+        <template>Baby 5</template>
+    </attaque>
+    <attaque nom="Sickle Girl" fr="?" us="?" perso="Baby 5" equipe="Donquixote Pirates (Donquixote Doflamingo)" style="Baby 5" arc="Punk Hazard" image="Baby 5">
+        <template>Baby 5</template>
+    </attaque>
+    <attaque nom="General Cannon" fr="?" us="?" perso="Franky (Cutty Flam)" equipe="Pirates du Chapeau de Paille" style="Franky 3" arc="Punk Hazard" image="Franky">
+        <template>Franky 3 (Kurosai)</template>
+    </attaque>
+    <attaque nom="Weather Egg" fr="?" us="?" perso="Nami" equipe="Pirates du Chapeau de Paille" style="Nami" arc="Punk Hazard" image="Nami">
+        <template>Nami (Sorcery Clima-Tact)</template>
+    </attaque>
+    <attaque nom="Thunder Breed Tempo" fr="?" us="?" perso="Nami" equipe="Pirates du Chapeau de Paille" style="Nami" arc="Punk Hazard" image="Nami">
+        <template>Nami (Sorcery Clima-Tact)</template>
+    </attaque>
+    <attaque nom="Grow Up" fr="?" us="?" perso="Usopp (Sogeking)" equipe="Pirates du Chapeau de Paille" style="Usopp 2" arc="Punk Hazard" image="Usopp">
+        <template>Usopp 2</template>
+    </attaque>
+    <attaque nom="Hissatsu Totsugeki Ryuseigun" fr="?" us="?" perso="Usopp (Sogeking)" equipe="Pirates du Chapeau de Paille" style="Usopp 2" arc="Punk Hazard" image="Usopp">
+        <template>Usopp 2</template>
+    </attaque>
+    <attaque nom="New Kama Kenpou Ougi" fr="?" us="?" perso="Sanji" equipe="Pirates du Chapeau de Paille" style="Sanji 3 (DiableJambe)" arc="Punk Hazard" image="Sanji">
+        <template>Sanji 3 (Hell Memories)</template>
+    </attaque>
+    <attaque nom="99 Baitaru Reshipi" fr="?" us="?" perso="Sanji" equipe="Pirates du Chapeau de Paille" style="Sanji 3 (DiableJambe)" arc="Punk Hazard" image="Sanji">
+        <template>Sanji 3 (Hell Memories)</template>
+    </attaque>
+    <attaque nom="Peto Peto" fr="?" us="?" perso="Breed" equipe="Breed" style="Breed" arc="Récupération de Caesar" image="Breed">
+        <template>Breed</template>
+    </attaque>
+    <attaque nom="Gomu Gomu no Seiken Tsuki" fr="?" us="?" perso="Monkey D. Luffy" equipe="Pirates du Chapeau de Paille" style="combat LUFFY" arc="Récupération de Caesar" image="Luffy">
+        <template>Luffy</template>
+    </attaque>
+    <attaque nom="Enkai Hibashira" fr="?" us="?" perso="Gol D. Ace (Portgas D. Ace)" equipe="Pirates de Barbe blanche" style="combat ACE" arc="DressRosa" image="Portgas D. Ace">
+        <template>Ace 1</template>
+    </attaque>
+</attaques>
